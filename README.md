@@ -99,8 +99,8 @@ https://limestart.cn/
 ## 图片
 使用图床,图床网站：https://imgse.com/
 markdown语法图片
-[![pAKHel8.jpg](https://s21.ax1x.com/2024/09/20/pAKHel8.jpg)](https://imgse.com/i/pAKHel8)
-hmtl语法图片可调节图片位置和大小
+[![pAKHel8.jpg](https://s21.ax1x.com/2024/09/20/pAKHel8.jpg)](https://imgse.com/i/pAKHel8)  
+hmtl语法图片可调节图片位置和大小  
 <a href="https://imgse.com/i/pAKHMwj"><img src="https://s21.ax1x.com/2024/09/20/pAKHMwj.jpg" alt="pAKHMwj.jpg" border="0" width=50%/></a>
 
 ## 数学公式
